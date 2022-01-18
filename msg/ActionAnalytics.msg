@@ -1,0 +1,4 @@
+string action_name
+int32 num_of_calls
+float32 mean_duration
+float32 max_duration
